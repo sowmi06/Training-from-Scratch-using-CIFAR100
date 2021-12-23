@@ -9,4 +9,3 @@
     - Epochs = 100
     - Kernel size = (3, 3)
 
-- 
