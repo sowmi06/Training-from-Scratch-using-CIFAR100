@@ -1,4 +1,4 @@
-# Training-from-Scratch-using-CIFAR100
+# Training from Scratch using CIFAR100
 
 - The deep convolution neural network (DNCC) is built with 6 convolution layers and with different learning rates for different convolution layers in the network.
 
